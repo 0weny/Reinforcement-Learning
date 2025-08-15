@@ -12,18 +12,20 @@
 - π에 따라 무작위 전이, 목표 도달 시 종료
 
 
-![Demo GIF](https://github.com/0weny/Reinforece-Learning/blob/main/static/maze1.gif?raw=true)
-
-![Maze1 Animation](docs/images/maze1.gif)
+![Maze1 Demo](https://github.com/0weny/Reinforcement-Learning/blob/main/static/maze1.gif?raw=true)
 
 
+<br/>
+<br/>
 
 ## 2. maze2.py — Q-learning (5×5)
 - Q-learning으로 상태-행동 가치Q를 업데이트(ε-greedy)
   -> 보상 기반 학습으로 Q(s,a) 업데이트
   -> ε-greedy로 탐험/활용 균형
 
+![Maze2 Demo](https://github.com/0weny/Reinforcement-Learning/blob/main/static/maze2.gif?raw=true)
 
+<br/><br/>
 ## 🔧 환경 요구사항
 - Python 3.9+ 
 - 패키지: `numpy`, `matplotlib`
