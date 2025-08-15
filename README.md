@@ -1,4 +1,4 @@
-# Reinforcement-Learning Mazes — Policy Simulation & Q-learning Demos
+# Reinforcement-Learning Mazes — Policy Simulation & Q-learning
 기본적인 강화학습 알고리즘을 구현하였습니다.
 
 
