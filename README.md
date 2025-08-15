@@ -12,6 +12,11 @@
 - π에 따라 무작위 전이, 목표 도달 시 종료
 
 
+![Demo GIF](https://github.com/0weny/Reinforece-Learning/blob/main/static/maze1.gif?raw=true)
+
+![Maze1 Animation](docs/images/maze1.gif)
+
+
 
 ## 2. maze2.py — Q-learning (5×5)
 - Q-learning으로 상태-행동 가치Q를 업데이트(ε-greedy)
